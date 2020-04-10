@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DA000B02-5286-4178-9149-9871AC097C2C}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlazorTodoList.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Pages/Todo.razor">
+    <Files>
+      <File FileName="Client/Pages/Todo.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorTodoList" expanded="True">
+            <Node name="BlazorTodoList.Client" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Todo.razor" selected="True" />
+              </Node>
+            </Node>
+            <Node name="BlazorTodoList.Server" expanded="True" />
+            <Node name="BlazorTodoList.Shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BlazorTodoList.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

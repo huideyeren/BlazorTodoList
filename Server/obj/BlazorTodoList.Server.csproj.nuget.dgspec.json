@@ -14,7 +14,7 @@
         "outputPath": "/Users/iosif/BlazorTodoList/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/iosif/.nuget/NuGet/NuGet.Config"
+          "/Users/iosif/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -88,7 +88,7 @@
         "outputPath": "/Users/iosif/BlazorTodoList/Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/iosif/.nuget/NuGet/NuGet.Config"
+          "/Users/iosif/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -140,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -154,7 +154,7 @@
         "outputPath": "/Users/iosif/BlazorTodoList/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/iosif/.nuget/NuGet/NuGet.Config"
+          "/Users/iosif/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -190,7 +190,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     }

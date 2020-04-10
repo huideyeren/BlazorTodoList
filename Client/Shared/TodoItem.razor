@@ -1,0 +1,18 @@
+@inherits TodoItemModel
+
+<tr class='@(Todo.IsComplete ? "bg-secondary" : "")'>
+    <th>
+        @Todo.Title
+    </th>
+    <td>
+        @Todo.Text
+    </td>
+    <td>
+        <button type="button" class="btn btn-primary"
+         @onclick="() => { Todo.IsComplete = true; }">完了</button>
+    </td>
+    <td>
+        <button type="button" class="btn btn-primary"
+         @onclick="() => { _ = OnClickDeleteButton.InvokeAsync(Todo); }">削除</button>
+    </td>
+</tr>
